@@ -16,14 +16,15 @@ Install the required Python libraries:
 ```bash
 pip install requests textblob selenium
 
-Also, make sure you have:
+
+##Also, make sure you have:
 
  Google Chrome installed
 
  ChromeDriver installed and added to your system PATH
  Download ChromeDriver
 
-▶ How to Use
+##How to Use
 Clone this repository or open the notebook directly in Jupyter Notebook or Google Colab
 
 Run all cells step by step
